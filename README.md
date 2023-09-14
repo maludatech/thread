@@ -1,1 +1,2 @@
 # thread
+I develop Threads (website version) using Next.js 13. We all know that Thread is an app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!  Lemme know what you think about this nice web app and also you can contact me for all your website development ranging from simple landing page to complicated ecommerce and crypto website. Contact me on twitter via @maludatech and whatsapp at 08163887385. I'm also available for hire.
